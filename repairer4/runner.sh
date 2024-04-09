@@ -1,1 +1,0 @@
-/home/javadyakuza/Desktop/arvan_test_final/repairer4/target/debug/repairer4 7 > /home/javadyakuza/Desktop/arvan_test_final/repairer4/log.txt
